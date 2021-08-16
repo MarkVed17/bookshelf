@@ -10,6 +10,12 @@ const bookShelf = {
     {
       name: "Eloquent JS",
       rating: "5/5"
+    },
+    {
+      name: "JavaScript: The Good Parts",
+      description:
+        "The Good Parts, author Douglas Crockford focuses on the basics of some of the lesser-known yet desirable aspects of JavaScript. It’s only recently that these hidden features are getting the appreciation they deserve from the programming community.",
+      rating: "4.2/5"
     }
   ],
   fiction: [
@@ -20,6 +26,12 @@ const bookShelf = {
     {
       name: "The Adventures of Sherlock Holmes",
       rating: "5/5"
+    },
+    {
+      name: "Life of Pi : A Novel",
+      description:
+        "Life of Pi is a Canadian philosophical novel by Yann Martel published in 2001. The protagonist is Piscine Molitor Pi Patel, an Indian Tamil boy from Pondicherry who explores issues of spirituality and metaphysics from an early age. He survives 227 days after a shipwreck while stranded on a lifeboat in the Pacific Ocean with a Bengal tiger which raises questions about the nature of reality and how it is perceived and told. He is part of a Tamil speaking family.",
+      rating: "4/5"
     }
   ],
   business: [
@@ -30,6 +42,12 @@ const bookShelf = {
     {
       name: "Rich Dad Poor Dad",
       rating: "4.5/5"
+    },
+    {
+      name: "Zero to One",
+      description:
+        "Zero to One: Notes on Startups, or How to Build the Future is a 2014 book by the American entrepreneur and investor Peter Thiel co-written with Blake Masters. It is a condensed and updated version of a highly popular set of online notes taken by Masters for the CS183 class on startups, as taught by Thiel at Stanford University in Spring 2012.",
+      rating: "4.2/5"
     }
   ]
 };
